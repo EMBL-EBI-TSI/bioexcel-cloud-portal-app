@@ -1,3 +1,7 @@
+> **Note**
+> The EBI Cloud Portal has been retired and its code base is no longer updated. If you would like to contact the Cloud Portal authors, please leave us feedback via [the EBI contact form](https://www.ebi.ac.uk/about/contact/support/other) mentioning the EBI Cloud Portal in the Subject.
+> The BioExcel project is ongoing at the time of writing this note. For more information about the project, please visit [its official website](https://bioexcel.eu/).
+
 # BioexcelCloudPortalApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
